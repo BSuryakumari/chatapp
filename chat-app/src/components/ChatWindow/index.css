@@ -1,0 +1,11 @@
+.chat-window {
+  flex: 2;
+  border: 1px solid #ccc;
+  padding: 10px;
+  overflow-y: scroll;
+  max-height: 400px;
+}
+
+.message {
+  margin-bottom: 10px;
+}
